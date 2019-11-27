@@ -17,7 +17,6 @@ import os
 import shlex
 from git_lfs import fetch
 
-#sys.path.insert(0, os.path.abspath('..'))
 import sphinx_rtd_theme
 from recommonmark.parser import CommonMarkParser
 from recommonmark.transform import AutoStructify
